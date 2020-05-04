@@ -1,0 +1,79 @@
+# Blender MTL File: 'NEW EAGLE.blend'
+# Material Count: 6
+
+newmtl Eyes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.755299 0.800000 0.179013
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd eyes.png
+
+newmtl Feet
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump eagle_Feet_NormalOpenGL.png
+map_Kd eagle_Feet_BaseColor.png
+map_Ns eagle_Feet_Roughness.png
+refl eagle_Feet_Metallic.png
+
+newmtl Mainbody
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump eagle_Mainbody_NormalOpenGL.png
+map_Kd eagle_Mainbody_BaseColor.png
+map_Ns eagle_Mainbody_Roughness.png
+refl eagle_Mainbody_Metallic.png
+
+newmtl Nabb
+Ns 198.553743
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.790992 0.026771
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump eagle_Nabb_NormalOpenGL.png
+map_Kd eagle_Nabb_BaseColor.png
+map_Ns eagle_Nabb_Roughness.png
+refl eagle_Nabb_Metallic.png
+
+newmtl Nabb2
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump eagle_Nabb2_NormalOpenGL.png
+map_Kd eagle_Nabb2_BaseColor.png
+map_Ns eagle_Nabb2_Roughness.png
+refl eagle_Nabb2_Metallic.png
+
+newmtl fEATHER1
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
